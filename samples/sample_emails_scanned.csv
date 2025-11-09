@@ -1,0 +1,1001 @@
+text,prob,verdict
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"Meeting notes Hey Mary, are we still on for tomorrow at 6pm?",0.026434888622475807,OK
+Payment issue on PayFastNG Congratulations John! You won a prize. Claim now: https://azumi.io/secure/login?id=1330,0.9434402590521357,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Reminder Hey Aisha, are we still on for tomorrow at 6pm?",0.03778880245333127,OK
+"UniPortal security alert Dear John, we detected unusual activity on your UniPortal account. Verify: https://naira-bank.ng/secure/login?id=1969",0.941169326039995,PHISH
+"Reminder Hey Fatima, are we still on for tomorrow at 6pm?",0.03772842604945261,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Payment issue on GigaMail Your GigaMail payment failed. Update billing: https://giga-mail.com/secure/login?id=8445,0.9422240158217484,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Meeting notes Hey Aisha, are we still on for tomorrow at 6pm?",0.02658582841352085,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"Meeting notes Hey Ngozi, are we still on for tomorrow at 6pm?",0.02601539131959456,OK
+"Meeting notes Hey Chinedu, are we still on for tomorrow at 6pm?",0.027355483529709155,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Action Required: PayFastNG Fatima, important security notice for your PayFastNG — click http://payfast-ng.verify-account.ng/522 to resolve.",0.9432569887881583,PHISH
+"Meeting notes Hey John, are we still on for tomorrow at 6pm?",0.02741676599779061,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Meeting notes Hey Aisha, are we still on for tomorrow at 6pm?",0.02658582841352085,OK
+"Payment issue on GigaMail Dear Olu, we detected unusual activity on your GigaMail account. Verify: http://naira-bank-ng.verify-account.ng/240",0.9378649717791088,PHISH
+"Action Required: Bank of Naira Chinedu, important security notice for your Bank of Naira — click https://payfast.ng/secure/login?id=4557 to resolve.",0.948036154589274,PHISH
+"Meeting notes Hey Fatima, are we still on for tomorrow at 6pm?",0.026603085352872258,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+PayFastNG security alert Congratulations Emeka! You won a prize. Claim now: https://payfast.ng/secure/login?id=4005,0.9475917618193331,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Bank of Naira security alert Ngozi, important security notice for your Bank of Naira — click https://naira-bank.ng/secure/login?id=2737 to resolve.",0.9459719976938206,PHISH
+"Action Required: Bank of Naira Dear Olu, we detected unusual activity on your Bank of Naira account. Verify: http://payfast-ng.verify-account.ng/657",0.9401799685544046,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Payment issue on UniPortal Chinedu, important security notice for your UniPortal — click https://naira-bank.ng/secure/login?id=6390 to resolve.",0.9501147881516734,PHISH
+Payment issue on PayFastNG Congratulations Mary! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/130,0.945156865142116,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Lunch plan Hey Ngozi, are we still on for tomorrow at 6pm?",0.027179471756950135,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Action Required: AzumiPay Congratulations Chinedu! You won a prize. Claim now: http://azumi-io.verify-account.ng/257,0.9435014530996932,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"AzumiPay security alert Aisha, important security notice for your AzumiPay — click http://unimmu-edu-ng.verify-account.ng/183 to resolve.",0.9467614472074767,PHISH
+AzumiPay security alert Congratulations Chinedu! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=6456,0.9499511365981397,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+AzumiPay security alert Your AzumiPay payment failed. Update billing: http://giga-mail-com.verify-account.ng/532,0.956364167800972,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Payment issue on PayFastNG Congratulations Emeka! You won a prize. Claim now: http://giga-mail-com.verify-account.ng/800,0.944803533957582,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"Lunch plan Hey Fatima, are we still on for tomorrow at 6pm?",0.02775786042266229,OK
+"Action Required: AzumiPay Dear Ngozi, we detected unusual activity on your AzumiPay account. Verify: https://azumi.io/secure/login?id=7144",0.9386261974498585,PHISH
+"Payment issue on PayFastNG Mary, important security notice for your PayFastNG — click https://unimmu.edu.ng/secure/login?id=6784 to resolve.",0.948510411535182,PHISH
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: http://payfast-ng.verify-account.ng/698,0.9408835768112913,PHISH
+UniPortal security alert Your UniPortal payment failed. Update billing: https://naira-bank.ng/secure/login?id=4569,0.9530276722747303,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+AzumiPay security alert Congratulations Chinedu! You won a prize. Claim now: https://payfast.ng/secure/login?id=1908,0.9499511365981397,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Meeting notes Hey Ngozi, are we still on for tomorrow at 6pm?",0.02601539131959456,OK
+"GigaMail security alert Dear Ngozi, we detected unusual activity on your GigaMail account. Verify: https://naira-bank.ng/secure/login?id=6636",0.9420074101898721,PHISH
+"Payment issue on GigaMail Dear Chinedu, we detected unusual activity on your GigaMail account. Verify: https://giga-mail.com/secure/login?id=9302",0.9393821712794248,PHISH
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+"Payment issue on AzumiPay Dear Chinedu, we detected unusual activity on your AzumiPay account. Verify: https://giga-mail.com/secure/login?id=6376",0.9408938265022365,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Meeting notes Hey Ngozi, are we still on for tomorrow at 6pm?",0.02601539131959456,OK
+Payment issue on AzumiPay Your AzumiPay payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=6661,0.9444517717047664,PHISH
+"Project update Hey Olu, are we still on for tomorrow at 6pm?",0.03579757666709367,OK
+"Action Required: PayFastNG Fatima, important security notice for your PayFastNG — click https://giga-mail.com/secure/login?id=1999 to resolve.",0.9432569887881583,PHISH
+"Lunch plan Hey Chinedu, are we still on for tomorrow at 6pm?",0.02854957084522941,OK
+"PayFastNG security alert Fatima, important security notice for your PayFastNG — click https://giga-mail.com/secure/login?id=3247 to resolve.",0.9412105552610829,PHISH
+"UniPortal security alert John, important security notice for your UniPortal — click https://naira-bank.ng/secure/login?id=1870 to resolve.",0.9440369774274413,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Reminder Hey Olu, are we still on for tomorrow at 6pm?",0.03640282318786466,OK
+"Lunch plan Hey Aisha, are we still on for tomorrow at 6pm?",0.027759016855580097,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Payment issue on Bank of Naira Your Bank of Naira payment failed. Update billing: https://azumi.io/secure/login?id=5699,0.9394027796530136,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Project update Hey Olu, are we still on for tomorrow at 6pm?",0.03579757666709367,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Action Required: UniPortal Congratulations Ngozi! You won a prize. Claim now: http://giga-mail-com.verify-account.ng/173,0.9397248541379686,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Action Required: UniPortal Your UniPortal payment failed. Update billing: http://payfast-ng.verify-account.ng/830,0.9472403946304631,PHISH
+"Action Required: GigaMail Dear Ngozi, we detected unusual activity on your GigaMail account. Verify: http://unimmu-edu-ng.verify-account.ng/637",0.9370368621647541,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"Payment issue on PayFastNG Chinedu, important security notice for your PayFastNG — click https://unimmu.edu.ng/secure/login?id=4549 to resolve.",0.9486264961879376,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Payment issue on Bank of Naira Congratulations Olu! You won a prize. Claim now: http://azumi-io.verify-account.ng/875,0.9529562097835417,PHISH
+Payment issue on GigaMail Your GigaMail payment failed. Update billing: http://payfast-ng.verify-account.ng/448,0.9422240158217484,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Payment issue on UniPortal Mary, important security notice for your UniPortal — click http://naira-bank-ng.verify-account.ng/201 to resolve.",0.9500093861348392,PHISH
+"Payment issue on PayFastNG Dear John, we detected unusual activity on your PayFastNG account. Verify: http://unimmu-edu-ng.verify-account.ng/515",0.9351415782182609,PHISH
+PayFastNG security alert Your PayFastNG payment failed. Update billing: https://payfast.ng/secure/login?id=4701,0.9508598185325208,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Payment issue on UniPortal Congratulations Chinedu! You won a prize. Claim now: http://giga-mail-com.verify-account.ng/183,0.9457503662843113,PHISH
+"AzumiPay security alert Aisha, important security notice for your AzumiPay — click https://payfast.ng/secure/login?id=5745 to resolve.",0.9467614472074767,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+"Action Required: UniPortal Dear Aisha, we detected unusual activity on your UniPortal account. Verify: http://azumi-io.verify-account.ng/169",0.9360987024300601,PHISH
+"PayFastNG security alert Mary, important security notice for your PayFastNG — click https://payfast.ng/secure/login?id=9955 to resolve.",0.9436441160328277,PHISH
+"UniPortal security alert Dear Emeka, we detected unusual activity on your UniPortal account. Verify: http://payfast-ng.verify-account.ng/767",0.9422247109946825,PHISH
+Bank of Naira security alert Your Bank of Naira payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/403,0.9460919168947791,PHISH
+"Payment issue on AzumiPay Dear Aisha, we detected unusual activity on your AzumiPay account. Verify: https://payfast.ng/secure/login?id=7171",0.9395931316754842,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Payment issue on AzumiPay Emeka, important security notice for your AzumiPay — click https://unimmu.edu.ng/secure/login?id=6443 to resolve.",0.9525058143675358,PHISH
+"Reminder Hey John, are we still on for tomorrow at 6pm?",0.03889133797810382,OK
+"Project update Hey Aisha, are we still on for tomorrow at 6pm?",0.03709505247424738,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Payment issue on GigaMail Fatima, important security notice for your GigaMail — click http://naira-bank-ng.verify-account.ng/953 to resolve.",0.9487930603828745,PHISH
+"Project update Hey Chinedu, are we still on for tomorrow at 6pm?",0.03814278941886421,OK
+"Payment issue on GigaMail Dear Chinedu, we detected unusual activity on your GigaMail account. Verify: https://naira-bank.ng/secure/login?id=3814",0.9393821712794248,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Payment issue on GigaMail John, important security notice for your GigaMail — click https://payfast.ng/secure/login?id=3626 to resolve.",0.950036829956672,PHISH
+AzumiPay security alert Your AzumiPay payment failed. Update billing: http://payfast-ng.verify-account.ng/211,0.956364167800972,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+"Payment issue on UniPortal Chinedu, important security notice for your UniPortal — click https://azumi.io/secure/login?id=1541 to resolve.",0.9501147881516734,PHISH
+Payment issue on UniPortal Congratulations Emeka! You won a prize. Claim now: http://unimmu-edu-ng.verify-account.ng/918,0.9453681327138125,PHISH
+"Lunch plan Hey Chinedu, are we still on for tomorrow at 6pm?",0.02854957084522941,OK
+"Meeting notes Hey Ngozi, are we still on for tomorrow at 6pm?",0.02601539131959456,OK
+"Reminder Hey Emeka, are we still on for tomorrow at 6pm?",0.03936575172516124,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+PayFastNG security alert Congratulations Mary! You won a prize. Claim now: https://giga-mail.com/secure/login?id=2913,0.9479696863020449,PHISH
+"Payment issue on GigaMail Aisha, important security notice for your GigaMail — click https://naira-bank.ng/secure/login?id=8076 to resolve.",0.9500630419510834,PHISH
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=9537,0.9421373116280297,PHISH
+"Meeting notes Hey Aisha, are we still on for tomorrow at 6pm?",0.02658582841352085,OK
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+"Bank of Naira security alert John, important security notice for your Bank of Naira — click https://naira-bank.ng/secure/login?id=4436 to resolve.",0.946403811790211,PHISH
+"Lunch plan Hey John, are we still on for tomorrow at 6pm?",0.028593545876669235,OK
+Payment issue on AzumiPay Congratulations Mary! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=6387,0.947179954074386,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Project update Hey Fatima, are we still on for tomorrow at 6pm?",0.03701807427056819,OK
+Action Required: GigaMail Your GigaMail payment failed. Update billing: https://giga-mail.com/secure/login?id=3712,0.94838210547528,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Action Required: GigaMail Your GigaMail payment failed. Update billing: https://giga-mail.com/secure/login?id=4394,0.94838210547528,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+GigaMail security alert Your GigaMail payment failed. Update billing: https://payfast.ng/secure/login?id=9423,0.9539930506285627,PHISH
+AzumiPay security alert Your AzumiPay payment failed. Update billing: http://azumi-io.verify-account.ng/674,0.956364167800972,PHISH
+"Bank of Naira security alert Dear Ngozi, we detected unusual activity on your Bank of Naira account. Verify: http://unimmu-edu-ng.verify-account.ng/434",0.9435009700706538,PHISH
+"Reminder Hey Emeka, are we still on for tomorrow at 6pm?",0.03936575172516124,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+UniPortal security alert Congratulations John! You won a prize. Claim now: https://payfast.ng/secure/login?id=9955,0.9468338924572619,PHISH
+"Action Required: GigaMail Dear Mary, we detected unusual activity on your GigaMail account. Verify: https://naira-bank.ng/secure/login?id=2421",0.9387142669510758,PHISH
+"Payment issue on PayFastNG Dear Emeka, we detected unusual activity on your PayFastNG account. Verify: http://giga-mail-com.verify-account.ng/339",0.9362426386797128,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"Reminder Hey Emeka, are we still on for tomorrow at 6pm?",0.03936575172516124,OK
+"GigaMail security alert Dear Olu, we detected unusual activity on your GigaMail account. Verify: http://payfast-ng.verify-account.ng/558",0.9423086114112056,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+Action Required: GigaMail Congratulations Mary! You won a prize. Claim now: http://azumi-io.verify-account.ng/531,0.9430059076573097,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+AzumiPay security alert Your AzumiPay payment failed. Update billing: https://azumi.io/secure/login?id=1672,0.956364167800972,PHISH
+Action Required: GigaMail Your GigaMail payment failed. Update billing: https://naira-bank.ng/secure/login?id=2127,0.94838210547528,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Action Required: GigaMail Aisha, important security notice for your GigaMail — click http://azumi-io.verify-account.ng/341 to resolve.",0.9473549408227816,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Action Required: AzumiPay Congratulations Aisha! You won a prize. Claim now: https://azumi.io/secure/login?id=9714,0.9418569509239543,PHISH
+Action Required: AzumiPay Congratulations Mary! You won a prize. Claim now: https://payfast.ng/secure/login?id=9395,0.9434689049858451,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Payment issue on AzumiPay Your AzumiPay payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=2380,0.9444517717047664,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+UniPortal security alert Your UniPortal payment failed. Update billing: http://payfast-ng.verify-account.ng/277,0.9530276722747303,PHISH
+"Bank of Naira security alert Emeka, important security notice for your Bank of Naira — click https://azumi.io/secure/login?id=3491 to resolve.",0.9471196409915437,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Project update Hey Aisha, are we still on for tomorrow at 6pm?",0.03709505247424738,OK
+"Meeting notes Hey Emeka, are we still on for tomorrow at 6pm?",0.027725160054051234,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Payment issue on UniPortal Fatima, important security notice for your UniPortal — click http://unimmu-edu-ng.verify-account.ng/258 to resolve.",0.9476507580902983,PHISH
+"Lunch plan Hey John, are we still on for tomorrow at 6pm?",0.028593545876669235,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Meeting notes Hey Fatima, are we still on for tomorrow at 6pm?",0.026603085352872258,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Payment issue on PayFastNG Your PayFastNG payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=2202,0.9387750744930031,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Meeting notes Hey Chinedu, are we still on for tomorrow at 6pm?",0.027355483529709155,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Action Required: GigaMail Your GigaMail payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/354,0.94838210547528,PHISH
+Payment issue on UniPortal Congratulations Aisha! You won a prize. Claim now: http://azumi-io.verify-account.ng/985,0.9441667968464317,PHISH
+"Reminder Hey Fatima, are we still on for tomorrow at 6pm?",0.03772842604945261,OK
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+"Payment issue on AzumiPay Emeka, important security notice for your AzumiPay — click https://payfast.ng/secure/login?id=2941 to resolve.",0.9525058143675358,PHISH
+"AzumiPay security alert Aisha, important security notice for your AzumiPay — click http://payfast-ng.verify-account.ng/847 to resolve.",0.9467614472074767,PHISH
+Bank of Naira security alert Your Bank of Naira payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=1147,0.9460919168947791,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Lunch plan Hey Fatima, are we still on for tomorrow at 6pm?",0.02775786042266229,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Action Required: AzumiPay Your AzumiPay payment failed. Update billing: https://naira-bank.ng/secure/login?id=3483,0.9508063700540682,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Meeting notes Hey Chinedu, are we still on for tomorrow at 6pm?",0.027355483529709155,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+UniPortal security alert Your UniPortal payment failed. Update billing: https://giga-mail.com/secure/login?id=8281,0.9530276722747303,PHISH
+"Payment issue on PayFastNG Mary, important security notice for your PayFastNG — click http://azumi-io.verify-account.ng/324 to resolve.",0.948510411535182,PHISH
+Action Required: GigaMail Congratulations Chinedu! You won a prize. Claim now: http://unimmu-edu-ng.verify-account.ng/214,0.9430446270828492,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"AzumiPay security alert Ngozi, important security notice for your AzumiPay — click https://naira-bank.ng/secure/login?id=7113 to resolve.",0.946324891359162,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Payment issue on GigaMail Dear Aisha, we detected unusual activity on your GigaMail account. Verify: http://azumi-io.verify-account.ng/540",0.9380702696872302,PHISH
+"Reminder Hey Mary, are we still on for tomorrow at 6pm?",0.03765693099074608,OK
+"Reminder Hey Chinedu, are we still on for tomorrow at 6pm?",0.03888999736697563,OK
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/423,0.9408835768112913,PHISH
+"Payment issue on GigaMail John, important security notice for your GigaMail — click https://giga-mail.com/secure/login?id=6102 to resolve.",0.950036829956672,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Bank of Naira security alert Aisha, important security notice for your Bank of Naira — click http://unimmu-edu-ng.verify-account.ng/120 to resolve.",0.9463359574048402,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Action Required: UniPortal Dear John, we detected unusual activity on your UniPortal account. Verify: http://azumi-io.verify-account.ng/961",0.9361222372219997,PHISH
+AzumiPay security alert Congratulations Mary! You won a prize. Claim now: http://giga-mail-com.verify-account.ng/818,0.9499609640706757,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Reminder Hey Chinedu, are we still on for tomorrow at 6pm?",0.03888999736697563,OK
+PayFastNG security alert Your PayFastNG payment failed. Update billing: http://payfast-ng.verify-account.ng/229,0.9508598185325208,PHISH
+Payment issue on AzumiPay Congratulations Ngozi! You won a prize. Claim now: http://azumi-io.verify-account.ng/684,0.9451177955329746,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Lunch plan Hey Fatima, are we still on for tomorrow at 6pm?",0.02775786042266229,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"Action Required: PayFastNG Dear Ngozi, we detected unusual activity on your PayFastNG account. Verify: https://naira-bank.ng/secure/login?id=9767",0.9339755634144685,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: http://naira-bank-ng.verify-account.ng/406,0.9408835768112913,PHISH
+"Lunch plan Hey Fatima, are we still on for tomorrow at 6pm?",0.02775786042266229,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Payment issue on UniPortal Ngozi, important security notice for your UniPortal — click http://naira-bank-ng.verify-account.ng/979 to resolve.",0.9485301784822734,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Action Required: Bank of Naira Dear Aisha, we detected unusual activity on your Bank of Naira account. Verify: http://naira-bank-ng.verify-account.ng/627",0.940411814397906,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Reminder Hey Olu, are we still on for tomorrow at 6pm?",0.03640282318786466,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: https://azumi.io/secure/login?id=5947,0.9421373116280297,PHISH
+"Lunch plan Hey Aisha, are we still on for tomorrow at 6pm?",0.027759016855580097,OK
+"Lunch plan Hey Aisha, are we still on for tomorrow at 6pm?",0.027759016855580097,OK
+"Action Required: Bank of Naira Olu, important security notice for your Bank of Naira — click https://payfast.ng/secure/login?id=8265 to resolve.",0.9469290025231133,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Meeting notes Hey Aisha, are we still on for tomorrow at 6pm?",0.02658582841352085,OK
+"PayFastNG security alert Dear Olu, we detected unusual activity on your PayFastNG account. Verify: http://naira-bank-ng.verify-account.ng/926",0.9394199433928763,PHISH
+"Payment issue on AzumiPay Ngozi, important security notice for your AzumiPay — click http://naira-bank-ng.verify-account.ng/390 to resolve.",0.9512129082312618,PHISH
+"Action Required: UniPortal Dear Ngozi, we detected unusual activity on your UniPortal account. Verify: https://azumi.io/secure/login?id=5570",0.9355734436967109,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Action Required: PayFastNG Congratulations Olu! You won a prize. Claim now: http://payfast-ng.verify-account.ng/956,0.9396535841707429,PHISH
+"Payment issue on Bank of Naira Dear John, we detected unusual activity on your Bank of Naira account. Verify: http://naira-bank-ng.verify-account.ng/161",0.9412318121542472,PHISH
+"Action Required: PayFastNG Emeka, important security notice for your PayFastNG — click http://naira-bank-ng.verify-account.ng/858 to resolve.",0.9456292774750121,PHISH
+Payment issue on AzumiPay Your AzumiPay payment failed. Update billing: https://naira-bank.ng/secure/login?id=9097,0.9444517717047664,PHISH
+"Meeting notes Hey Ngozi, are we still on for tomorrow at 6pm?",0.02601539131959456,OK
+"GigaMail security alert Dear Chinedu, we detected unusual activity on your GigaMail account. Verify: https://giga-mail.com/secure/login?id=5705",0.9437367790966485,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Project update Hey Fatima, are we still on for tomorrow at 6pm?",0.03701807427056819,OK
+"Payment issue on Bank of Naira Dear Mary, we detected unusual activity on your Bank of Naira account. Verify: http://unimmu-edu-ng.verify-account.ng/639",0.9419325488368518,PHISH
+"Meeting notes Hey Ngozi, are we still on for tomorrow at 6pm?",0.02601539131959456,OK
+"Reminder Hey Fatima, are we still on for tomorrow at 6pm?",0.03772842604945261,OK
+UniPortal security alert Your UniPortal payment failed. Update billing: https://azumi.io/secure/login?id=5325,0.9530276722747303,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: http://payfast-ng.verify-account.ng/511,0.9408835768112913,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+UniPortal security alert Your UniPortal payment failed. Update billing: http://payfast-ng.verify-account.ng/511,0.9530276722747303,PHISH
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: http://azumi-io.verify-account.ng/227,0.9421373116280297,PHISH
+"Project update Hey Chinedu, are we still on for tomorrow at 6pm?",0.03814278941886421,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"GigaMail security alert Dear Ngozi, we detected unusual activity on your GigaMail account. Verify: https://giga-mail.com/secure/login?id=8885",0.9420074101898721,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"AzumiPay security alert Mary, important security notice for your AzumiPay — click http://naira-bank-ng.verify-account.ng/525 to resolve.",0.9478101575356244,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+"Project update Hey Chinedu, are we still on for tomorrow at 6pm?",0.03814278941886421,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Action Required: UniPortal Congratulations Aisha! You won a prize. Claim now: http://payfast-ng.verify-account.ng/940,0.9403034857508586,PHISH
+"Payment issue on GigaMail John, important security notice for your GigaMail — click https://azumi.io/secure/login?id=2400 to resolve.",0.950036829956672,PHISH
+"Action Required: PayFastNG Chinedu, important security notice for your PayFastNG — click http://payfast-ng.verify-account.ng/251 to resolve.",0.9458594431326088,PHISH
+Action Required: PayFastNG Your PayFastNG payment failed. Update billing: http://naira-bank-ng.verify-account.ng/592,0.9450001421367222,PHISH
+"Payment issue on PayFastNG Fatima, important security notice for your PayFastNG — click http://azumi-io.verify-account.ng/214 to resolve.",0.9461335348759664,PHISH
+"Project update Hey Ngozi, are we still on for tomorrow at 6pm?",0.03635298912602593,OK
+Action Required: AzumiPay Congratulations Chinedu! You won a prize. Claim now: https://payfast.ng/secure/login?id=1926,0.9435014530996932,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Action Required: Bank of Naira Dear Chinedu, we detected unusual activity on your Bank of Naira account. Verify: http://naira-bank-ng.verify-account.ng/996",0.9414130524222494,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Reminder Hey Chinedu, are we still on for tomorrow at 6pm?",0.03888999736697563,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"Lunch plan Hey John, are we still on for tomorrow at 6pm?",0.028593545876669235,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"AzumiPay security alert Mary, important security notice for your AzumiPay — click https://giga-mail.com/secure/login?id=1752 to resolve.",0.9478101575356244,PHISH
+PayFastNG security alert Congratulations Ngozi! You won a prize. Claim now: https://giga-mail.com/secure/login?id=2738,0.9459138725822069,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Action Required: AzumiPay Dear Emeka, we detected unusual activity on your AzumiPay account. Verify: https://unimmu.edu.ng/secure/login?id=4993",0.9402225117998663,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Action Required: GigaMail Dear Ngozi, we detected unusual activity on your GigaMail account. Verify: https://giga-mail.com/secure/login?id=4123",0.9370368621647541,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+"Reminder Hey Aisha, are we still on for tomorrow at 6pm?",0.03778880245333127,OK
+"Action Required: PayFastNG Aisha, important security notice for your PayFastNG — click https://naira-bank.ng/secure/login?id=4381 to resolve.",0.9446258202622747,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Action Required: UniPortal Congratulations John! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=2667,0.9401560192938924,PHISH
+"Project update Hey Olu, are we still on for tomorrow at 6pm?",0.03579757666709367,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Action Required: PayFastNG Your PayFastNG payment failed. Update billing: http://naira-bank-ng.verify-account.ng/675,0.9450001421367222,PHISH
+GigaMail security alert Your GigaMail payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=1465,0.9539930506285627,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"PayFastNG security alert Dear Emeka, we detected unusual activity on your PayFastNG account. Verify: https://unimmu.edu.ng/secure/login?id=4737",0.9406883748148763,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Payment issue on UniPortal Congratulations Aisha! You won a prize. Claim now: http://azumi-io.verify-account.ng/964,0.9441667968464317,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Reminder Hey Aisha, are we still on for tomorrow at 6pm?",0.03778880245333127,OK
+"AzumiPay security alert Dear Emeka, we detected unusual activity on your AzumiPay account. Verify: https://unimmu.edu.ng/secure/login?id=5830",0.9450630011175017,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"UniPortal security alert Dear Chinedu, we detected unusual activity on your UniPortal account. Verify: https://giga-mail.com/secure/login?id=7245",0.9424572589913037,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+Action Required: GigaMail Your GigaMail payment failed. Update billing: http://giga-mail-com.verify-account.ng/370,0.94838210547528,PHISH
+"Project update Hey Emeka, are we still on for tomorrow at 6pm?",0.03858335632288166,OK
+AzumiPay security alert Your AzumiPay payment failed. Update billing: https://azumi.io/secure/login?id=5614,0.956364167800972,PHISH
+"GigaMail security alert Dear Mary, we detected unusual activity on your GigaMail account. Verify: https://giga-mail.com/secure/login?id=9847",0.943590941580261,PHISH
+"Payment issue on UniPortal Fatima, important security notice for your UniPortal — click http://naira-bank-ng.verify-account.ng/194 to resolve.",0.9476507580902983,PHISH
+"Payment issue on Bank of Naira Dear Ngozi, we detected unusual activity on your Bank of Naira account. Verify: http://naira-bank-ng.verify-account.ng/278",0.9407501677342992,PHISH
+Bank of Naira security alert Congratulations Emeka! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/728,0.9559489834429522,PHISH
+"Lunch plan Hey Aisha, are we still on for tomorrow at 6pm?",0.027759016855580097,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Payment issue on AzumiPay Your AzumiPay payment failed. Update billing: https://giga-mail.com/secure/login?id=2117,0.9444517717047664,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Meeting notes Hey Aisha, are we still on for tomorrow at 6pm?",0.02658582841352085,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Payment issue on Bank of Naira Your Bank of Naira payment failed. Update billing: http://naira-bank-ng.verify-account.ng/980,0.9394027796530136,PHISH
+Action Required: AzumiPay Congratulations Mary! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=7056,0.9434689049858451,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Reminder Hey John, are we still on for tomorrow at 6pm?",0.03889133797810382,OK
+UniPortal security alert Congratulations Aisha! You won a prize. Claim now: https://payfast.ng/secure/login?id=5248,0.9470091200811758,PHISH
+UniPortal security alert Congratulations Mary! You won a prize. Claim now: https://payfast.ng/secure/login?id=6012,0.9485435221907824,PHISH
+"Project update Hey Chinedu, are we still on for tomorrow at 6pm?",0.03814278941886421,OK
+Action Required: UniPortal Your UniPortal payment failed. Update billing: https://azumi.io/secure/login?id=5735,0.9472403946304631,PHISH
+"GigaMail security alert John, important security notice for your GigaMail — click https://naira-bank.ng/secure/login?id=3572 to resolve.",0.9452701717806338,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Reminder Hey Aisha, are we still on for tomorrow at 6pm?",0.03778880245333127,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Payment issue on Bank of Naira Your Bank of Naira payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/505,0.9394027796530136,PHISH
+UniPortal security alert Your UniPortal payment failed. Update billing: http://giga-mail-com.verify-account.ng/112,0.9530276722747303,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Lunch plan Hey Ngozi, are we still on for tomorrow at 6pm?",0.027179471756950135,OK
+"AzumiPay security alert Emeka, important security notice for your AzumiPay — click https://naira-bank.ng/secure/login?id=7859 to resolve.",0.9477154425866646,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+AzumiPay security alert Your AzumiPay payment failed. Update billing: https://giga-mail.com/secure/login?id=6720,0.956364167800972,PHISH
+"Action Required: GigaMail Olu, important security notice for your GigaMail — click https://giga-mail.com/secure/login?id=8908 to resolve.",0.9472188668321034,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"Reminder Hey John, are we still on for tomorrow at 6pm?",0.03889133797810382,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Bank of Naira security alert Congratulations Mary! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=3848,0.9561857993283884,PHISH
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Lunch plan Hey Ngozi, are we still on for tomorrow at 6pm?",0.027179471756950135,OK
+"Project update Hey Emeka, are we still on for tomorrow at 6pm?",0.03858335632288166,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Payment issue on AzumiPay Your AzumiPay payment failed. Update billing: https://azumi.io/secure/login?id=9454,0.9444517717047664,PHISH
+"Payment issue on GigaMail Dear Mary, we detected unusual activity on your GigaMail account. Verify: https://unimmu.edu.ng/secure/login?id=5099",0.9392072040531196,PHISH
+"Action Required: AzumiPay Mary, important security notice for your AzumiPay — click http://naira-bank-ng.verify-account.ng/219 to resolve.",0.9500057124524266,PHISH
+"Action Required: Bank of Naira Olu, important security notice for your Bank of Naira — click https://unimmu.edu.ng/secure/login?id=3286 to resolve.",0.9469290025231133,PHISH
+"Payment issue on AzumiPay Mary, important security notice for your AzumiPay — click http://azumi-io.verify-account.ng/799 to resolve.",0.9526397601292663,PHISH
+"Reminder Hey Mary, are we still on for tomorrow at 6pm?",0.03765693099074608,OK
+Bank of Naira security alert Your Bank of Naira payment failed. Update billing: http://payfast-ng.verify-account.ng/421,0.9460919168947791,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+UniPortal security alert Congratulations Chinedu! You won a prize. Claim now: http://azumi-io.verify-account.ng/517,0.9485422801162494,PHISH
+GigaMail security alert Congratulations Mary! You won a prize. Claim now: http://payfast-ng.verify-account.ng/840,0.9494883026743285,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+"Project update Hey Ngozi, are we still on for tomorrow at 6pm?",0.03635298912602593,OK
+"Action Required: GigaMail Emeka, important security notice for your GigaMail — click https://unimmu.edu.ng/secure/login?id=6346 to resolve.",0.9483112249957313,PHISH
+Payment issue on AzumiPay Your AzumiPay payment failed. Update billing: http://giga-mail-com.verify-account.ng/960,0.9444517717047664,PHISH
+Bank of Naira security alert Congratulations Olu! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=1839,0.9550194177837407,PHISH
+"Payment issue on AzumiPay Fatima, important security notice for your AzumiPay — click https://unimmu.edu.ng/secure/login?id=9714 to resolve.",0.950352918915129,PHISH
+"Payment issue on PayFastNG Olu, important security notice for your PayFastNG — click http://azumi-io.verify-account.ng/650 to resolve.",0.9473126292057003,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Meeting notes Hey Mary, are we still on for tomorrow at 6pm?",0.026434888622475807,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"AzumiPay security alert Dear Olu, we detected unusual activity on your AzumiPay account. Verify: https://naira-bank.ng/secure/login?id=1788",0.943892884551147,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Project update Hey Emeka, are we still on for tomorrow at 6pm?",0.03858335632288166,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+"Action Required: PayFastNG Emeka, important security notice for your PayFastNG — click http://payfast-ng.verify-account.ng/703 to resolve.",0.9456292774750121,PHISH
+"Action Required: AzumiPay Dear John, we detected unusual activity on your AzumiPay account. Verify: https://giga-mail.com/secure/login?id=7523",0.9391395726130415,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"Reminder Hey Olu, are we still on for tomorrow at 6pm?",0.03640282318786466,OK
+Action Required: GigaMail Your GigaMail payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/869,0.94838210547528,PHISH
+"Project update Hey Ngozi, are we still on for tomorrow at 6pm?",0.03635298912602593,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Payment issue on GigaMail Congratulations Chinedu! You won a prize. Claim now: http://azumi-io.verify-account.ng/943,0.9467398358960296,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Payment issue on Bank of Naira Dear Emeka, we detected unusual activity on your Bank of Naira account. Verify: https://giga-mail.com/secure/login?id=8180",0.9420010652529897,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Payment issue on GigaMail Congratulations Ngozi! You won a prize. Claim now: http://giga-mail-com.verify-account.ng/863,0.9446593714978718,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Payment issue on UniPortal Dear Ngozi, we detected unusual activity on your UniPortal account. Verify: https://azumi.io/secure/login?id=8549",0.9361259455054134,PHISH
+"Payment issue on GigaMail Dear Aisha, we detected unusual activity on your GigaMail account. Verify: http://payfast-ng.verify-account.ng/664",0.9380702696872302,PHISH
+Bank of Naira security alert Your Bank of Naira payment failed. Update billing: https://naira-bank.ng/secure/login?id=2269,0.9460919168947791,PHISH
+GigaMail security alert Your GigaMail payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/587,0.9539930506285627,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Action Required: AzumiPay Your AzumiPay payment failed. Update billing: http://giga-mail-com.verify-account.ng/449,0.9508063700540682,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"AzumiPay security alert Mary, important security notice for your AzumiPay — click https://payfast.ng/secure/login?id=6501 to resolve.",0.9478101575356244,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+"Reminder Hey Fatima, are we still on for tomorrow at 6pm?",0.03772842604945261,OK
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: https://azumi.io/secure/login?id=4140,0.9421373116280297,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"UniPortal security alert Dear Olu, we detected unusual activity on your UniPortal account. Verify: http://naira-bank-ng.verify-account.ng/501",0.9409884979162165,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Action Required: GigaMail John, important security notice for your GigaMail — click http://unimmu-edu-ng.verify-account.ng/517 to resolve.",0.9473360924160579,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Action Required: AzumiPay Dear Ngozi, we detected unusual activity on your AzumiPay account. Verify: https://unimmu.edu.ng/secure/login?id=3084",0.9386261974498585,PHISH
+Payment issue on PayFastNG Congratulations Olu! You won a prize. Claim now: https://giga-mail.com/secure/login?id=8466,0.9435581295315216,PHISH
+Payment issue on GigaMail Congratulations Mary! You won a prize. Claim now: http://unimmu-edu-ng.verify-account.ng/601,0.9467208572120371,PHISH
+"GigaMail security alert Dear Fatima, we detected unusual activity on your GigaMail account. Verify: https://unimmu.edu.ng/secure/login?id=3957",0.9410993823818574,PHISH
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: http://giga-mail-com.verify-account.ng/908,0.9421373116280297,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+"Project update Hey Chinedu, are we still on for tomorrow at 6pm?",0.03814278941886421,OK
+"Meeting notes Hey Emeka, are we still on for tomorrow at 6pm?",0.027725160054051234,OK
+GigaMail security alert Your GigaMail payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/856,0.9539930506285627,PHISH
+"Project update Hey Emeka, are we still on for tomorrow at 6pm?",0.03858335632288166,OK
+AzumiPay security alert Your AzumiPay payment failed. Update billing: https://giga-mail.com/secure/login?id=5216,0.956364167800972,PHISH
+"Project update Hey Mary, are we still on for tomorrow at 6pm?",0.03698920448660677,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"AzumiPay security alert Emeka, important security notice for your AzumiPay — click https://azumi.io/secure/login?id=5022 to resolve.",0.9477154425866646,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"Action Required: UniPortal Dear Aisha, we detected unusual activity on your UniPortal account. Verify: https://naira-bank.ng/secure/login?id=1544",0.9360987024300601,PHISH
+Payment issue on AzumiPay Congratulations Ngozi! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/569,0.9451177955329746,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Payment issue on Bank of Naira Congratulations Olu! You won a prize. Claim now: https://azumi.io/secure/login?id=9230,0.9529562097835417,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Action Required: Bank of Naira Ngozi, important security notice for your Bank of Naira — click https://azumi.io/secure/login?id=3880 to resolve.",0.9467583186043319,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+"Action Required: AzumiPay John, important security notice for your AzumiPay — click https://payfast.ng/secure/login?id=9375 to resolve.",0.9489117522965155,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Action Required: UniPortal Congratulations Fatima! You won a prize. Claim now: https://payfast.ng/secure/login?id=6462,0.9382939204349038,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+AzumiPay security alert Congratulations Mary! You won a prize. Claim now: https://azumi.io/secure/login?id=3275,0.9499609640706757,PHISH
+"Project update Hey Mary, are we still on for tomorrow at 6pm?",0.03698920448660677,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Reminder Hey Ngozi, are we still on for tomorrow at 6pm?",0.03700216384852821,OK
+"Reminder Hey Mary, are we still on for tomorrow at 6pm?",0.03765693099074608,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Payment issue on UniPortal Dear Fatima, we detected unusual activity on your UniPortal account. Verify: https://giga-mail.com/secure/login?id=4631",0.9351871206745451,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+"Project update Hey Emeka, are we still on for tomorrow at 6pm?",0.03858335632288166,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+PayFastNG security alert Your PayFastNG payment failed. Update billing: https://naira-bank.ng/secure/login?id=9308,0.9508598185325208,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Action Required: PayFastNG Congratulations Olu! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/288,0.9396535841707429,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Payment issue on PayFastNG Congratulations Aisha! You won a prize. Claim now: http://payfast-ng.verify-account.ng/359,0.9435929934173531,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Payment issue on PayFastNG Congratulations Olu! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=7339,0.9435581295315216,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"AzumiPay security alert Fatima, important security notice for your AzumiPay — click http://giga-mail-com.verify-account.ng/726 to resolve.",0.9454602234802626,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Lunch plan Hey Olu, are we still on for tomorrow at 6pm?",0.02671738957860573,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Lunch plan Hey John, are we still on for tomorrow at 6pm?",0.028593545876669235,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Bank of Naira security alert Your Bank of Naira payment failed. Update billing: https://naira-bank.ng/secure/login?id=9955,0.9460919168947791,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+UniPortal security alert Congratulations Olu! You won a prize. Claim now: http://giga-mail-com.verify-account.ng/408,0.9470081659501212,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: https://azumi.io/secure/login?id=2296,0.9408835768112913,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"UniPortal security alert Dear John, we detected unusual activity on your UniPortal account. Verify: https://payfast.ng/secure/login?id=4367",0.941169326039995,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Meeting notes Hey Fatima, are we still on for tomorrow at 6pm?",0.026603085352872258,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Payment issue on AzumiPay Dear Emeka, we detected unusual activity on your AzumiPay account. Verify: https://giga-mail.com/secure/login?id=3017",0.9406667681629494,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Project update Hey Ngozi, are we still on for tomorrow at 6pm?",0.03635298912602593,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: http://giga-mail-com.verify-account.ng/322,0.9421373116280297,PHISH
+"Meeting notes Hey John, are we still on for tomorrow at 6pm?",0.02741676599779061,OK
+"Reminder Hey Aisha, are we still on for tomorrow at 6pm?",0.03778880245333127,OK
+"Lunch plan Hey Olu, are we still on for tomorrow at 6pm?",0.02671738957860573,OK
+Payment issue on PayFastNG Congratulations Aisha! You won a prize. Claim now: http://azumi-io.verify-account.ng/341,0.9435929934173531,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Action Required: UniPortal Dear Olu, we detected unusual activity on your UniPortal account. Verify: https://payfast.ng/secure/login?id=2929",0.9358874640673366,PHISH
+"Action Required: Bank of Naira Emeka, important security notice for your Bank of Naira — click http://unimmu-edu-ng.verify-account.ng/830 to resolve.",0.9479072364945205,PHISH
+"Meeting notes Hey Aisha, are we still on for tomorrow at 6pm?",0.02658582841352085,OK
+"Lunch plan Hey Olu, are we still on for tomorrow at 6pm?",0.02671738957860573,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Payment issue on GigaMail Dear Olu, we detected unusual activity on your GigaMail account. Verify: http://giga-mail-com.verify-account.ng/728",0.9378649717791088,PHISH
+"Project update Hey Ngozi, are we still on for tomorrow at 6pm?",0.03635298912602593,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"Action Required: GigaMail Dear Emeka, we detected unusual activity on your GigaMail account. Verify: https://naira-bank.ng/secure/login?id=4369",0.9386575984099271,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"UniPortal security alert Dear John, we detected unusual activity on your UniPortal account. Verify: http://giga-mail-com.verify-account.ng/433",0.941169326039995,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+"Project update Hey Aisha, are we still on for tomorrow at 6pm?",0.03709505247424738,OK
+"Payment issue on GigaMail Dear Emeka, we detected unusual activity on your GigaMail account. Verify: http://unimmu-edu-ng.verify-account.ng/943",0.9391592411388745,PHISH
+"Lunch plan Hey Emeka, are we still on for tomorrow at 6pm?",0.028917510264510688,OK
+"Project update Hey John, are we still on for tomorrow at 6pm?",0.03812476567075703,OK
+UniPortal security alert Congratulations John! You won a prize. Claim now: https://giga-mail.com/secure/login?id=3986,0.9468338924572619,PHISH
+"Lunch plan Hey Ngozi, are we still on for tomorrow at 6pm?",0.027179471756950135,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Payment issue on Bank of Naira Congratulations Ngozi! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=1198,0.9525959680235011,PHISH
+"Action Required: GigaMail Dear Mary, we detected unusual activity on your GigaMail account. Verify: http://azumi-io.verify-account.ng/901",0.9387142669510758,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Bank of Naira security alert Congratulations Fatima! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/514,0.9536750146423315,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Project update Hey Emeka, are we still on for tomorrow at 6pm?",0.03858335632288166,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Payment issue on PayFastNG Chinedu, important security notice for your PayFastNG — click http://payfast-ng.verify-account.ng/445 to resolve.",0.9486264961879376,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Action Required: GigaMail Congratulations Emeka! You won a prize. Claim now: https://payfast.ng/secure/login?id=7453,0.942656826063405,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"Bank of Naira security alert Olu, important security notice for your Bank of Naira — click http://naira-bank-ng.verify-account.ng/668 to resolve.",0.946136369454993,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Meeting notes Hey Ngozi, are we still on for tomorrow at 6pm?",0.02601539131959456,OK
+"AzumiPay security alert Ngozi, important security notice for your AzumiPay — click https://naira-bank.ng/secure/login?id=3903 to resolve.",0.946324891359162,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Action Required: UniPortal Congratulations Chinedu! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=2403,0.9419824695572669,PHISH
+"Meeting notes Hey Aisha, are we still on for tomorrow at 6pm?",0.02658582841352085,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+UniPortal security alert Congratulations Olu! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=5691,0.9470081659501212,PHISH
+"Meeting notes Hey Fatima, are we still on for tomorrow at 6pm?",0.026603085352872258,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Meeting notes Hey John, are we still on for tomorrow at 6pm?",0.02741676599779061,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Meeting notes Hey Chinedu, are we still on for tomorrow at 6pm?",0.027355483529709155,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Action Required: Bank of Naira Olu, important security notice for your Bank of Naira — click https://payfast.ng/secure/login?id=5552 to resolve.",0.9469290025231133,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+UniPortal security alert Your UniPortal payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=6070,0.9530276722747303,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Reminder Hey Chinedu, are we still on for tomorrow at 6pm?",0.03888999736697563,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Payment issue on PayFastNG Congratulations Fatima! You won a prize. Claim now: http://azumi-io.verify-account.ng/846,0.9416742937028623,PHISH
+"Meeting notes Hey Mary, are we still on for tomorrow at 6pm?",0.026434888622475807,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Lunch plan Hey Ngozi, are we still on for tomorrow at 6pm?",0.027179471756950135,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Payment issue on Bank of Naira Congratulations Olu! You won a prize. Claim now: https://payfast.ng/secure/login?id=3988,0.9529562097835417,PHISH
+Payment issue on AzumiPay Congratulations Olu! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=3239,0.9456249542148956,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+GigaMail security alert Congratulations Fatima! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/471,0.9461369750245935,PHISH
+"Action Required: GigaMail Chinedu, important security notice for your GigaMail — click https://giga-mail.com/secure/login?id=4952 to resolve.",0.948537439059536,PHISH
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Bank of Naira security alert Congratulations Emeka! You won a prize. Claim now: https://payfast.ng/secure/login?id=4596,0.9559489834429522,PHISH
+Action Required: PayFastNG Congratulations Chinedu! You won a prize. Claim now: http://azumi-io.verify-account.ng/111,0.9413996640103709,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+"PayFastNG security alert Fatima, important security notice for your PayFastNG — click https://naira-bank.ng/secure/login?id=3681 to resolve.",0.9412105552610829,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Reminder Hey Olu, are we still on for tomorrow at 6pm?",0.03640282318786466,OK
+"Meeting notes Hey John, are we still on for tomorrow at 6pm?",0.02741676599779061,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Project update Hey John, are we still on for tomorrow at 6pm?",0.03812476567075703,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Action Required: AzumiPay Congratulations Aisha! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=9574,0.9418569509239543,PHISH
+"Bank of Naira security alert Dear Olu, we detected unusual activity on your Bank of Naira account. Verify: https://azumi.io/secure/login?id=8027",0.9436718407129907,PHISH
+Payment issue on PayFastNG Congratulations Chinedu! You won a prize. Claim now: https://giga-mail.com/secure/login?id=6731,0.9451843838125978,PHISH
+"Action Required: Bank of Naira Dear Olu, we detected unusual activity on your Bank of Naira account. Verify: http://azumi-io.verify-account.ng/619",0.9401799685544046,PHISH
+"Project update Hey Olu, are we still on for tomorrow at 6pm?",0.03579757666709367,OK
+"Project update Hey Mary, are we still on for tomorrow at 6pm?",0.03698920448660677,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"AzumiPay security alert Dear Aisha, we detected unusual activity on your AzumiPay account. Verify: http://giga-mail-com.verify-account.ng/223",0.9440500014594413,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Lunch plan Hey Mary, are we still on for tomorrow at 6pm?",0.027622765991407307,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Action Required: PayFastNG Mary, important security notice for your PayFastNG — click http://unimmu-edu-ng.verify-account.ng/782 to resolve.",0.9457290507788992,PHISH
+"Lunch plan Hey Olu, are we still on for tomorrow at 6pm?",0.02671738957860573,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+"Action Required: UniPortal Mary, important security notice for your UniPortal — click http://giga-mail-com.verify-account.ng/459 to resolve.",0.9472683758108746,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+"Lunch plan Hey Olu, are we still on for tomorrow at 6pm?",0.02671738957860573,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Payment issue on PayFastNG Your PayFastNG payment failed. Update billing: http://giga-mail-com.verify-account.ng/571,0.9387750744930031,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Action Required: AzumiPay Your AzumiPay payment failed. Update billing: https://payfast.ng/secure/login?id=2898,0.9508063700540682,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Action Required: GigaMail Congratulations John! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=7374,0.9412507713979286,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: http://giga-mail-com.verify-account.ng/181,0.9408835768112913,PHISH
+"Lunch plan Hey Olu, are we still on for tomorrow at 6pm?",0.02671738957860573,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Reminder Hey Mary, are we still on for tomorrow at 6pm?",0.03765693099074608,OK
+Action Required: AzumiPay Your AzumiPay payment failed. Update billing: https://naira-bank.ng/secure/login?id=7462,0.9508063700540682,PHISH
+"Project update Hey Fatima, are we still on for tomorrow at 6pm?",0.03701807427056819,OK
+"Meeting notes Hey Mary, are we still on for tomorrow at 6pm?",0.026434888622475807,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Action Required: Bank of Naira Congratulations Chinedu! You won a prize. Claim now: http://payfast-ng.verify-account.ng/360,0.9513774733199221,PHISH
+"PayFastNG security alert Dear Fatima, we detected unusual activity on your PayFastNG account. Verify: https://payfast.ng/secure/login?id=9941",0.938182603749879,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Reminder Hey Emeka, are we still on for tomorrow at 6pm?",0.03936575172516124,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Project update Hey John, are we still on for tomorrow at 6pm?",0.03812476567075703,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/941,0.9421373116280297,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=1285,0.9408835768112913,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+GigaMail security alert Congratulations Chinedu! You won a prize. Claim now: https://azumi.io/secure/login?id=3436,0.9494846718316275,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+AzumiPay security alert Congratulations Emeka! You won a prize. Claim now: https://payfast.ng/secure/login?id=2326,0.9495706759683598,PHISH
+Payment issue on AzumiPay Congratulations John! You won a prize. Claim now: http://unimmu-edu-ng.verify-account.ng/762,0.9454797635102665,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Project update Hey John, are we still on for tomorrow at 6pm?",0.03812476567075703,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Payment issue on GigaMail Fatima, important security notice for your GigaMail — click https://unimmu.edu.ng/secure/login?id=9115 to resolve.",0.9487930603828745,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Payment issue on PayFastNG Dear Aisha, we detected unusual activity on your PayFastNG account. Verify: http://giga-mail-com.verify-account.ng/231",0.9351048834256694,PHISH
+"Bank of Naira security alert Dear John, we detected unusual activity on your Bank of Naira account. Verify: http://giga-mail-com.verify-account.ng/254",0.9439575402036974,PHISH
+"UniPortal security alert Ngozi, important security notice for your UniPortal — click https://azumi.io/secure/login?id=4277 to resolve.",0.9435784276273111,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Project update Hey John, are we still on for tomorrow at 6pm?",0.03812476567075703,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Meeting notes Hey Mary, are we still on for tomorrow at 6pm?",0.026434888622475807,OK
+"Meeting notes Hey Fatima, are we still on for tomorrow at 6pm?",0.026603085352872258,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+PayFastNG security alert Congratulations Chinedu! You won a prize. Claim now: http://unimmu-edu-ng.verify-account.ng/962,0.9479740465110437,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Reminder Hey Mary, are we still on for tomorrow at 6pm?",0.03765693099074608,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Action Required: PayFastNG Chinedu, important security notice for your PayFastNG — click https://unimmu.edu.ng/secure/login?id=2384 to resolve.",0.9458594431326088,PHISH
+Payment issue on UniPortal Congratulations Chinedu! You won a prize. Claim now: http://azumi-io.verify-account.ng/820,0.9457503662843113,PHISH
+Payment issue on AzumiPay Your AzumiPay payment failed. Update billing: http://naira-bank-ng.verify-account.ng/214,0.9444517717047664,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Bank of Naira security alert Your Bank of Naira payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=4239,0.9460919168947791,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Action Required: AzumiPay Congratulations Mary! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=3593,0.9434689049858451,PHISH
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: https://giga-mail.com/secure/login?id=6373,0.9408835768112913,PHISH
+"GigaMail security alert Dear John, we detected unusual activity on your GigaMail account. Verify: https://giga-mail.com/secure/login?id=9346",0.9424829219743126,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Action Required: AzumiPay Dear Ngozi, we detected unusual activity on your AzumiPay account. Verify: https://giga-mail.com/secure/login?id=4910",0.9386261974498585,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Lunch plan Hey Ngozi, are we still on for tomorrow at 6pm?",0.027179471756950135,OK
+"Action Required: UniPortal Dear John, we detected unusual activity on your UniPortal account. Verify: https://naira-bank.ng/secure/login?id=6954",0.9361222372219997,PHISH
+"UniPortal security alert Ngozi, important security notice for your UniPortal — click https://azumi.io/secure/login?id=1067 to resolve.",0.9435784276273111,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+"Reminder Hey Fatima, are we still on for tomorrow at 6pm?",0.03772842604945261,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Action Required: PayFastNG Mary, important security notice for your PayFastNG — click https://unimmu.edu.ng/secure/login?id=7538 to resolve.",0.9457290507788992,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Meeting notes Hey Aisha, are we still on for tomorrow at 6pm?",0.02658582841352085,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"Payment issue on PayFastNG Dear Aisha, we detected unusual activity on your PayFastNG account. Verify: http://giga-mail-com.verify-account.ng/300",0.9351048834256694,PHISH
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+"Action Required: UniPortal Dear Emeka, we detected unusual activity on your UniPortal account. Verify: https://unimmu.edu.ng/secure/login?id=2075",0.9372403012545365,PHISH
+Action Required: GigaMail Congratulations Olu! You won a prize. Claim now: https://payfast.ng/secure/login?id=5034,0.9413500805024836,PHISH
+"Bank of Naira security alert Dear Aisha, we detected unusual activity on your Bank of Naira account. Verify: https://payfast.ng/secure/login?id=2953",0.9438840451618731,PHISH
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+AzumiPay security alert Congratulations Ngozi! You won a prize. Claim now: http://payfast-ng.verify-account.ng/699,0.9479515001218827,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Lunch plan Hey Olu, are we still on for tomorrow at 6pm?",0.02671738957860573,OK
+"Payment issue on PayFastNG Dear Ngozi, we detected unusual activity on your PayFastNG account. Verify: https://naira-bank.ng/secure/login?id=9767",0.9345804342190942,PHISH
+"Project update Hey Emeka, are we still on for tomorrow at 6pm?",0.03858335632288166,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"Payment issue on PayFastNG Dear Olu, we detected unusual activity on your PayFastNG account. Verify: https://unimmu.edu.ng/secure/login?id=2391",0.9348803293668553,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Action Required: UniPortal Congratulations Fatima! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/857,0.9382939204349038,PHISH
+"Project update Hey Chinedu, are we still on for tomorrow at 6pm?",0.03814278941886421,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+PayFastNG security alert Your PayFastNG payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=4871,0.9508598185325208,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Bank of Naira security alert Dear Emeka, we detected unusual activity on your Bank of Naira account. Verify: http://giga-mail-com.verify-account.ng/512",0.9447084614449596,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Action Required: PayFastNG Fatima, important security notice for your PayFastNG — click https://naira-bank.ng/secure/login?id=4487 to resolve.",0.9432569887881583,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+UniPortal security alert Congratulations John! You won a prize. Claim now: http://unimmu-edu-ng.verify-account.ng/560,0.9468338924572619,PHISH
+"Meeting notes Hey Fatima, are we still on for tomorrow at 6pm?",0.026603085352872258,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Action Required: AzumiPay Congratulations Emeka! You won a prize. Claim now: http://payfast-ng.verify-account.ng/676,0.943110416544505,PHISH
+Bank of Naira security alert Congratulations Mary! You won a prize. Claim now: https://payfast.ng/secure/login?id=2765,0.9561857993283884,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+PayFastNG security alert Your PayFastNG payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=7388,0.9508598185325208,PHISH
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Payment issue on UniPortal Emeka, important security notice for your UniPortal — click https://azumi.io/secure/login?id=1206 to resolve.",0.9498881836706313,PHISH
+Action Required: AzumiPay Congratulations Ngozi! You won a prize. Claim now: https://giga-mail.com/secure/login?id=5450,0.941293417286394,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Bank of Naira security alert Your Bank of Naira payment failed. Update billing: https://azumi.io/secure/login?id=1903,0.9460919168947791,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Project update Hey Fatima, are we still on for tomorrow at 6pm?",0.03701807427056819,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Action Required: PayFastNG Congratulations Mary! You won a prize. Claim now: https://payfast.ng/secure/login?id=3471,0.9413515197036084,PHISH
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Lunch plan Hey Emeka, are we still on for tomorrow at 6pm?",0.028917510264510688,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+"UniPortal security alert Dear Mary, we detected unusual activity on your UniPortal account. Verify: https://azumi.io/secure/login?id=5295",0.9423066653759297,PHISH
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Payment issue on AzumiPay Your AzumiPay payment failed. Update billing: https://azumi.io/secure/login?id=1665,0.9444517717047664,PHISH
+"Project update Hey Fatima, are we still on for tomorrow at 6pm?",0.03701807427056819,OK
+"Meeting notes Hey Emeka, are we still on for tomorrow at 6pm?",0.027725160054051234,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+"Reminder Hey Ngozi, are we still on for tomorrow at 6pm?",0.03700216384852821,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Payment issue on Bank of Naira Congratulations John! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/349,0.9529239471834161,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Payment issue on Bank of Naira Congratulations Chinedu! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=5762,0.9542067359782169,PHISH
+Action Required: GigaMail Congratulations Aisha! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/510,0.941398292821886,PHISH
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+"Lunch plan Hey Olu, are we still on for tomorrow at 6pm?",0.02671738957860573,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+"Reminder Hey Mary, are we still on for tomorrow at 6pm?",0.03765693099074608,OK
+Payment issue on PayFastNG Your PayFastNG payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/818,0.9387750744930031,PHISH
+"Meeting notes Hey Olu, are we still on for tomorrow at 6pm?",0.02555165445086187,OK
+"Action Required: GigaMail Olu, important security notice for your GigaMail — click http://unimmu-edu-ng.verify-account.ng/113 to resolve.",0.9472188668321034,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+AzumiPay security alert Congratulations Fatima! You won a prize. Claim now: http://payfast-ng.verify-account.ng/858,0.9466034706092137,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Lunch plan Meeting notes attached. See you in the seminar.,0.014476694113625049,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Payment issue on UniPortal Your UniPortal payment failed. Update billing: https://naira-bank.ng/secure/login?id=6103,0.9408835768112913,PHISH
+"Lunch plan Hey Ngozi, are we still on for tomorrow at 6pm?",0.027179471756950135,OK
+"Payment issue on GigaMail Olu, important security notice for your GigaMail — click https://unimmu.edu.ng/secure/login?id=8266 to resolve.",0.9499427656376308,PHISH
+"Payment issue on Bank of Naira Chinedu, important security notice for your Bank of Naira — click https://giga-mail.com/secure/login?id=3053 to resolve.",0.9500836313748777,PHISH
+Payment issue on AzumiPay Congratulations Aisha! You won a prize. Claim now: http://azumi-io.verify-account.ng/304,0.9456426055674402,PHISH
+"UniPortal security alert Dear John, we detected unusual activity on your UniPortal account. Verify: https://naira-bank.ng/secure/login?id=1542",0.941169326039995,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Action Required: PayFastNG Your PayFastNG payment failed. Update billing: http://payfast-ng.verify-account.ng/322,0.9450001421367222,PHISH
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+AzumiPay security alert Congratulations Fatima! You won a prize. Claim now: https://giga-mail.com/secure/login?id=3438,0.9466034706092137,PHISH
+PayFastNG security alert Your PayFastNG payment failed. Update billing: https://naira-bank.ng/secure/login?id=3642,0.9508598185325208,PHISH
+"Payment issue on AzumiPay Emeka, important security notice for your AzumiPay — click https://unimmu.edu.ng/secure/login?id=1626 to resolve.",0.9525058143675358,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Project update Hey Olu, are we still on for tomorrow at 6pm?",0.03579757666709367,OK
+"Action Required: Bank of Naira Ngozi, important security notice for your Bank of Naira — click https://naira-bank.ng/secure/login?id=7318 to resolve.",0.9467583186043319,PHISH
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+"Lunch plan Hey Chinedu, are we still on for tomorrow at 6pm?",0.02854957084522941,OK
+"Lunch plan Hey Aisha, are we still on for tomorrow at 6pm?",0.027759016855580097,OK
+Meeting notes Can you review the attached doc and approve?,0.01708811165668259,OK
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: https://azumi.io/secure/login?id=2466,0.9421373116280297,PHISH
+"Lunch plan Hey Chinedu, are we still on for tomorrow at 6pm?",0.02854957084522941,OK
+Action Required: Bank of Naira Your Bank of Naira payment failed. Update billing: https://naira-bank.ng/secure/login?id=7689,0.9421373116280297,PHISH
+Payment issue on GigaMail Congratulations Aisha! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=9377,0.9451871170741563,PHISH
+Lunch plan Lunch on campus? I'm free after 2pm.,0.02515641101832308,OK
+"Payment issue on Bank of Naira Dear Mary, we detected unusual activity on your Bank of Naira account. Verify: http://unimmu-edu-ng.verify-account.ng/955",0.9419325488368518,PHISH
+GigaMail security alert Congratulations Ngozi! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=6738,0.9474787334568171,PHISH
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+Reminder Lunch on campus? I'm free after 2pm.,0.026518899006132256,OK
+Meeting notes Meeting notes attached. See you in the seminar.,0.023000206335312984,OK
+"Payment issue on GigaMail Chinedu, important security notice for your GigaMail — click http://unimmu-edu-ng.verify-account.ng/806 to resolve.",0.9511909986647644,PHISH
+"Project update Hey John, are we still on for tomorrow at 6pm?",0.03812476567075703,OK
+Reminder Meeting notes attached. See you in the seminar.,0.020390907454596898,OK
+AzumiPay security alert Congratulations Fatima! You won a prize. Claim now: http://azumi-io.verify-account.ng/834,0.9466034706092137,PHISH
+Project update Lunch on campus? I'm free after 2pm.,0.027673783425105493,OK
+Action Required: Bank of Naira Congratulations Olu! You won a prize. Claim now: https://payfast.ng/secure/login?id=7022,0.9500451187402255,PHISH
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+Project update Meeting notes attached. See you in the seminar.,0.02126508024930377,OK
+Reminder Can you review the attached doc and approve?,0.0259775791496697,OK
+"Reminder Hey Aisha, are we still on for tomorrow at 6pm?",0.03778880245333127,OK
+Project update Can you review the attached doc and approve?,0.02649040188816317,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Lunch plan Can you review the attached doc and approve?,0.01847716579197332,OK
+Meeting notes Lunch on campus? I'm free after 2pm.,0.016624748564437172,OK
+"Reminder Hey Chinedu, are we still on for tomorrow at 6pm?",0.03888999736697563,OK
+"UniPortal security alert Emeka, important security notice for your UniPortal — click https://giga-mail.com/secure/login?id=6953 to resolve.",0.9450332358067036,PHISH

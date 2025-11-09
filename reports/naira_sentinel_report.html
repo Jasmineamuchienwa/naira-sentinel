@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Naira Sentinel — Scan Report</title>
+<style>
+ body { font-family: -apple-system, Inter, Segoe UI, Roboto, sans-serif; margin: 24px; color: #111; }
+ .card { border: 1px solid #eee; border-radius: 12px; padding: 16px 20px; margin-bottom: 16px; }
+ h1 { margin: 0 0 4px; }
+ .muted { color: #666; font-size: 0.95rem; }
+ table { border-collapse: collapse; width: 100%; }
+ th, td { border: 1px solid #eee; padding: 8px 10px; text-align: left; }
+ th { background: #fafafa; }
+ .pill { display:inline-block; padding: 2px 8px; border-radius: 999px; font-size: 12px; }
+ .ok { background:#e8f7ee; color:#0f7b3e; }
+ .phish { background:#fde8ea; color:#b42318; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <h1>Naira Sentinel — Scan Report</h1>
+    <div class="muted">Generated: 2025-11-09T14:42:14.481040Z</div>
+  </div>
+
+  <div class="card">
+    <h2>Summary</h2>
+    <ul>
+      <li>Total emails scanned: <b>1000</b></li>
+      <li>Flagged as phishing: <b>318</b> (31.8%)</li>
+      <li>Safe: <b>682</b> (68.2%)</li>
+      <li>Average phishing probability: <b>0.317</b></li>
+    </ul>
+    
+        <h3>Evaluation (with labels)</h3>
+        <ul>
+          <li>Accuracy: 100.0%</li>
+          <li>TP: 318 &nbsp; TN: 682 &nbsp; FP: 0 &nbsp; FN: 0</li>
+        </ul>
+        
+  </div>
+
+  <div class="card">
+    <h2>Top 25 Flagged by Probability</h2>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>text</th>
+      <th>prob</th>
+      <th>verdict</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AzumiPay security alert Your AzumiPay payment failed. Update billing: https://azumi.io/secure/login?id=1672</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>AzumiPay security alert Your AzumiPay payment failed. Update billing: https://azumi.io/secure/login?id=5614</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>AzumiPay security alert Your AzumiPay payment failed. Update billing: http://azumi-io.verify-account.ng/674</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>AzumiPay security alert Your AzumiPay payment failed. Update billing: https://giga-mail.com/secure/login?id=6720</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>AzumiPay security alert Your AzumiPay payment failed. Update billing: http://payfast-ng.verify-account.ng/211</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>AzumiPay security alert Your AzumiPay payment failed. Update billing: http://giga-mail-com.verify-account.ng/532</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>AzumiPay security alert Your AzumiPay payment failed. Update billing: https://giga-mail.com/secure/login?id=5216</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>Bank of Naira security alert Congratulations Mary! You won a prize. Claim now: https://unimmu.edu.ng/secure/login?id=3848</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>Bank of Naira security alert Congratulations Mary! You won a prize. Claim now: https://payfast.ng/secure/login?id=2765</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>Bank of Naira security alert Congratulations Emeka! You won a prize. Claim now: https://payfast.ng/secure/login?id=4596</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>Bank of Naira security alert Congratulations Emeka! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/728</td>
+      <td>0.956</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>Bank of Naira security alert Congratulations Olu! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=1839</td>
+      <td>0.955</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>Payment issue on Bank of Naira Congratulations Chinedu! You won a prize. Claim now: https://naira-bank.ng/secure/login?id=5762</td>
+      <td>0.954</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>GigaMail security alert Your GigaMail payment failed. Update billing: https://payfast.ng/secure/login?id=9423</td>
+      <td>0.954</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>GigaMail security alert Your GigaMail payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=1465</td>
+      <td>0.954</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>GigaMail security alert Your GigaMail payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/856</td>
+      <td>0.954</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>GigaMail security alert Your GigaMail payment failed. Update billing: http://unimmu-edu-ng.verify-account.ng/587</td>
+      <td>0.954</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>Bank of Naira security alert Congratulations Fatima! You won a prize. Claim now: http://naira-bank-ng.verify-account.ng/514</td>
+      <td>0.954</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>UniPortal security alert Your UniPortal payment failed. Update billing: https://naira-bank.ng/secure/login?id=4569</td>
+      <td>0.953</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>UniPortal security alert Your UniPortal payment failed. Update billing: http://payfast-ng.verify-account.ng/277</td>
+      <td>0.953</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>UniPortal security alert Your UniPortal payment failed. Update billing: http://giga-mail-com.verify-account.ng/112</td>
+      <td>0.953</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>UniPortal security alert Your UniPortal payment failed. Update billing: http://payfast-ng.verify-account.ng/511</td>
+      <td>0.953</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>UniPortal security alert Your UniPortal payment failed. Update billing: https://azumi.io/secure/login?id=5325</td>
+      <td>0.953</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>UniPortal security alert Your UniPortal payment failed. Update billing: https://unimmu.edu.ng/secure/login?id=6070</td>
+      <td>0.953</td>
+      <td>PHISH</td>
+    </tr>
+    <tr>
+      <td>UniPortal security alert Your UniPortal payment failed. Update billing: https://giga-mail.com/secure/login?id=8281</td>
+      <td>0.953</td>
+      <td>PHISH</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+  <div class="muted">Naira Sentinel • local CLI phishing detector</div>
+</body>
+</html>
