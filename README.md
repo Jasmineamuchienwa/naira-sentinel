@@ -3,6 +3,8 @@
 A command-line phishing and malware detection tool built with Python, scikit-learn, and synthetic data.  
 Developed to simulate real-world phishing detection in a safe and educational way.
 
+![Demo Screenshot](demo.png)
+
 ---
 
 ## 🚀 Features
